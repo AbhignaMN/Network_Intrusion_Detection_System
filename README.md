@@ -14,7 +14,7 @@ A machine-learning network intrusion detection system (NIDS) with a Streamlit da
 
 | Normal traffic | Intrusion detected |
 |---|---|
-| ![Normal traffic](https://github.com/AbhignaMN/Network_Intrusion_Detection_System/blob/main/Screenshot%202026-11-17%20105740.png) | ![Intrusion detected](screenshots/dashboard-intrusion-detected.png) |
+| ![Normal traffic](https://github.com/AbhignaMN/Network_Intrusion_Detection_System/blob/main/Screenshot%202026-11-17%20105740.png) | ![Intrusion detected](https://github.com/AbhignaMN/Network_Intrusion_Detection_System/blob/main/Screenshot%202026-11-17%20105835.png) |
 
 ## Tech stack
 
